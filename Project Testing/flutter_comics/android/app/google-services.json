@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "599987163108",
+    "project_id": "comics-8eb63",
+    "storage_bucket": "comics-8eb63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599987163108:android:46af126e9cbda63f0741f1",
+        "android_client_info": {
+          "package_name": "com.example.flutter_comics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599987163108-6m429v6t88ritemafd1pdq6n6dcjhqfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD21y2FxgFcHlqy1WJfZ9POO_DsEr08Y-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599987163108-6m429v6t88ritemafd1pdq6n6dcjhqfk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
